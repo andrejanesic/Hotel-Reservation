@@ -1,0 +1,9 @@
+[submodule "sk.client"]
+	path = sk.client
+	url = https://github.com/Aleksa0308/sk.client.git
+[submodule "sk.gateway"]
+	path = sk.gateway
+	url = https://github.com/andrejanesic/sk.gateway.git
+[submodule "sk.api"]
+	path = sk.api
+	url = https://github.com/andrejanesic/sk.api.git
